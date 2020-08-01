@@ -16,6 +16,7 @@ Project is created with Worpress 5.4.2 with extensions :
 * [https://community.gwangi-theme.com/](https://community.gwangi-theme.com/)
 * [https://mythemestore.com/beehive-preview/blog/](https://mythemestore.com/beehive-preview/blog/])
 * [https://seventhqueen.com/themes/kleo/portfolio/portfolio-grid-images-v1/](https://seventhqueen.com/themes/kleo/portfolio/portfolio-grid-images-v1/)
+* https://diaboliquedesign.com/demo/onecommunity-new/
 
 ## Installation 
 
